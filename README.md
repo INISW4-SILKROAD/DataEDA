@@ -7,7 +7,8 @@ TextureSurvey_csv - 원단 촉감 설문 결과를 모아둔 폴더
   
 FiberData.csv - 촉감 분류모델에 학습에 사용할 원단들의 혼용율 정보  
   
-SurveyData.ipynb - 설문결과들을 하나의 csv파일로 만들고 설문에 사용하는 원단의 혼용율을 정리하는 코드 (설문결과: result.csv, 원단 혼용율 정보: use_data.csv)  
+SurveyData.ipynb - 설문결과들을 하나의 csv파일로 만들고 설문에 사용하는 원단의 혼용율을 정리하는 코드 
+(설문결과: result.csv, 원단 혼용율 정보: use_data.csv)  
 
 Boxplot.ipynb - 설문결과에 대한 Boxplot
   
