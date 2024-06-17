@@ -11,4 +11,6 @@ SurveyCollect.ipynb - 설문결과들을 하나의 csv파일로 만드는 코드
   
 CorrelationCoefficient.ipynb - 상관 관계 계수를 이용 하여 혼방율에 따른 학습용 데이터 생성
 
+FuzzyComprehensiveEvaluation.ipynb - Fuzzy Comprehensive Logic에 Entropy Weight를 활용하여 학습용 데이터 생성
+
 TouchDataAugmentation.ipynb - 촉감 분류 모델 학습용 원단 이미지를 Augmentation 하는 코드  
